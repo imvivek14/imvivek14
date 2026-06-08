@@ -24,7 +24,7 @@ Building intelligent applications with Machine Learning, Data Science, and moder
 * SQL
 * JavaScript
 
-**AI & Data**
+**AI & Data Science**
 
 * Machine Learning
 * Data Analysis
