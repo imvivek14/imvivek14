@@ -1,25 +1,77 @@
-## Vivek Surati
+# Hi, I'm Vivek Surati 👋
 
-Student focused on Python and Machine Learning.
-Currently working on small but structured ML projects.
+## AI & Software Developer
 
-### Skills
-- Python
-- Machine Learning (beginner–intermediate)
-- Data Analysis
-- Pandas, NumPy, Scikit-learn
-
-### Projects
-- ML-based disease prediction systems
-- Network intrusion and anomaly detection
-- Data preprocessing and model evaluation
-
-### Learning Goals
-- Writing cleaner Python code
-- Understanding ML models deeply
-- Building end-to-end projects
+Building intelligent applications with Machine Learning, Data Science, and modern software technologies.
 
 ---
+
+### About Me
+
+* Passionate about Artificial Intelligence and Software Development
+* Building practical AI-powered applications and data-driven solutions
+* Interested in Machine Learning, Data Science, and Full-Stack Development
+* Focused on continuous learning through real-world projects
+
+---
+
+### Tech Stack
+
+**Languages**
+
+* Python
+* Java
+* SQL
+* JavaScript
+
+**AI & Data**
+
+* Machine Learning
+* Data Analysis
+* Pandas
+* NumPy
+* Scikit-learn
+
+**Development**
+
+* Streamlit
+* Git & GitHub
+* REST APIs
+
+---
+
+### Featured Work
+
+* AI Data Analysis Agent
+* Multiple Disease Prediction System
+* Educational Study Resource Platform
+* Machine Learning & Data Science Projects
+
+---
+
+### Currently Exploring
+
+* Generative AI
+* AI Agents
+* Advanced Machine Learning
+* Full-Stack Application Development
+
+---
+
+### Connect With Me
+
+📧 Email: [viveksurati1410@gmail.com](mailto:viveksurati1410@gmail.com)
+
+💼 LinkedIn:
+https://www.linkedin.com/in/vivek-surati-752906347/
+
+🐙 GitHub:
+https://github.com/imvivek14
+
+---
+
+> Building projects, solving problems, and turning ideas into intelligent applications.
+
 GitHub: imvivek14
 
 
