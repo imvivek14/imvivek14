@@ -43,8 +43,8 @@ Building intelligent applications with Machine Learning, Data Science, and moder
 ### Featured Work
 
 * AI Data Analysis Agent
+* Content Intelligence Platform
 * Multiple Disease Prediction System
-* Educational Study Resource Platform
 * Machine Learning & Data Science Projects
 
 ---
