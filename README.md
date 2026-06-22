@@ -1,91 +1,29 @@
-# Hi, I'm Vivek Surati 👋
+# Vivek Surati
 
-## AI & Software Developer
+AI & Software Developer
 
-Building intelligent applications with Machine Learning, Data Science, and modern software technologies.
+Building AI-powered applications, RAG systems, AI agents, and intelligent data solutions.
 
----
+## What I'm Working On
 
-### About Me
+* Retrieval-Augmented Generation (RAG)
+* AI Agents & Automation
+* Large Language Model Applications
+* Machine Learning & Data Analysis
 
-* Passionate about Artificial Intelligence and Software Development
-* Building practical AI-powered applications and data-driven solutions
-* Interested in Machine Learning, Data Science, and Full-Stack Development
-* Focused on continuous learning through real-world projects
+## Recent Projects
 
----
-
-### Tech Stack
-
-**Languages**
-
-* Python
-* Java
-* SQL
-* JavaScript
-
-**AI & Data Science**
-
-* Machine Learning
-* Data Analysis
-* Pandas
-* NumPy
-* Scikit-learn
-
-**Development**
-
-* Streamlit
-* Git & GitHub
-* REST APIs
-
----
-
-### Featured Work
-
+* RAG AI Knowledge Assistant
 * AI Data Analysis Agent
-* Content Intelligence Platform
-* Multiple Disease Prediction System
-* Machine Learning & Data Science Projects
+* AI Content Intelligence Platform
+* Multi-Agent Research Engine
 
----
+## Tech Stack
 
-### Currently Exploring
+Python • FastAPI • LangChain • FAISS • Gemini • SQL • Pandas • Scikit-learn • Streamlit • Git
 
-* Generative AI
-* AI Agents
-* Advanced Machine Learning
-* Full-Stack Application Development
+## Connect
 
----
+LinkedIn: linkedin.com/in/vivek-surati-752906347
 
-### Connect With Me
-
-📧 Email: [viveksurati1410@gmail.com](mailto:viveksurati1410@gmail.com)
-
-💼 LinkedIn:
-https://www.linkedin.com/in/vivek-surati-752906347/
-
-🐙 GitHub:
-https://github.com/imvivek14
-
----
-
-> Building projects, solving problems, and turning ideas into intelligent applications.
-
-GitHub: imvivek14
-
-
-<!--
-**imvivek14/imvivek14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Email: [viveksurati1410@gmail.com](mailto:viveksurati1410@gmail.com)
