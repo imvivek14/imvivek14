@@ -1,29 +1,53 @@
 # Vivek Surati
 
-AI & Software Developer
+**AI / Generative AI Engineer | Python • RAG • AI Agents**
 
-Building AI-powered applications, RAG systems, AI agents, and intelligent data solutions.
+Building AI-powered applications, intelligent automation systems, and LLM-based solutions.
+
+\<p align="center">   \<a href="[https://vivek-ai-portfolio-swart.vercel.app/](https://vivek-ai-portfolio-swart.vercel.app/)">     \<img src="[https://img.shields.io/badge/🌐\_EXPLORE_MY_PORTFOLIO-LIVE-7C3AED?style=for-the-badge](https://img.shields.io/badge/🌐_EXPLORE_MY_PORTFOLIO-LIVE-7C3AED?style=for-the-badge)" alt="Explore My Portfolio"/>   \</a> \</p>
 
 ## What I'm Working On
 
-* Retrieval-Augmented Generation (RAG)
-* AI Agents & Automation
-* Large Language Model Applications
-* Machine Learning & Data Analysis
+- Retrieval-Augmented Generation (RAG) systems
+- AI Agents & Multi-Agent Architectures
+- Large Language Model Applications
+- Machine Learning & Data Analysis
+- AI-powered Automation
 
-## Recent Projects
+## Featured Projects
 
-* RAG AI Knowledge Assistant
-* AI Data Analysis Agent
-* AI Content Intelligence Platform
-* Multi-Agent Research Engine
+- [RAG AI Knowledge Assistant](https://rag-ai-knowledge-assistant.vercel.app/) — Document-based question answering using RAG.
+- [Multi-Agent Research Engine](https://multi-agent-research-engine-b4bygfwpfkwmvqtpgjf89n.streamlit.app/) — AI-powered research, fact-checking and report generation.
+- [AI Content Intelligence Platform](https://content-intelligence-platform.streamlit.app/) — AI-assisted content research and generation.
+- [AI Data Analysis Agent](https://ai-data-analysis-agent-beta.vercel.app/) — Automated data analysis and visualization.
 
 ## Tech Stack
 
-Python • FastAPI • LangChain • FAISS • Gemini • SQL • Pandas • Scikit-learn • Streamlit • Git
+**Languages:** Python • SQL • Java (Basic)
+
+**AI / ML:** Generative AI • LLMs • RAG • Scikit-learn • LangChain • CrewAI
+
+**Backend & Frontend:** FastAPI • Next.js • React • Streamlit
+
+**Data & Tools:** Pandas • NumPy • FAISS • Git • GitHub • n8n
+
+## Experience
+
+**Python for Data Science (AI/ML) Intern — Durvasa Infotech**
+
+*January 2026 – March 2026*
+
+Worked on data processing, exploratory data analysis, machine learning workflows, web scraping, and API development.
 
 ## Connect
 
-LinkedIn: linkedin.com/in/vivek-surati-752906347
+- **Portfolio:** [vivek-ai-portfolio-swart.vercel.app](https://vivek-ai-portfolio-swart.vercel.app/)
+- **LinkedIn:** [linkedin.com/in/vivek-surati-752906347](https://www.linkedin.com/in/vivek-surati-752906347/)
+- **GitHub:** [github.com/imvivek14](https://github.com/imvivek14)
+- **Email:** [viveksurati1410@gmail.com](mailto\:viveksurati1410@gmail.com)
 
-Email: [viveksurati1410@gmail.com](mailto:viveksurati1410@gmail.com)
+---
+
+\<p align="center">
+&#x20; \<i>Building intelligent systems, turning ideas into working solutions.\</i>
+\</p>
