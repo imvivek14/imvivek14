@@ -1,10 +1,10 @@
 # Vivek Surati
 
-**AI / Generative AI Engineer | Python • RAG • AI Agents**
+**AI / Generative AI and ML Engineer | Python • RAG • AI Agents**
 
 Building AI-powered applications, intelligent automation systems, and LLM-based solutions.
 
-\<p align="center">   \<a href="[https://vivek-ai-portfolio-swart.vercel.app/](https://vivek-ai-portfolio-swart.vercel.app/)">     \<img src="[https://img.shields.io/badge/🌐\_EXPLORE_MY_PORTFOLIO-LIVE-7C3AED?style=for-the-badge](https://img.shields.io/badge/🌐_EXPLORE_MY_PORTFOLIO-LIVE-7C3AED?style=for-the-badge)" alt="Explore My Portfolio"/>   \</a> \</p>
+[![Explore My Portfolio](https://img.shields.io/badge/Explore%20My%20Portfolio-Live%20Website-7C3AED?style=for-the-badge)](https://vivek-ai-portfolio-swart.vercel.app/)
 
 ## What I'm Working On
 
@@ -23,13 +23,10 @@ Building AI-powered applications, intelligent automation systems, and LLM-based 
 
 ## Tech Stack
 
-**Languages:** Python • SQL • Java (Basic)
-
-**AI / ML:** Generative AI • LLMs • RAG • Scikit-learn • LangChain • CrewAI
-
-**Backend & Frontend:** FastAPI • Next.js • React • Streamlit
-
-**Data & Tools:** Pandas • NumPy • FAISS • Git • GitHub • n8n
+- **Languages:** Python • SQL • Java (Basic)
+- **AI / ML:** Generative AI • LLMs • RAG • Scikit-learn • LangChain • CrewAI
+- **Backend & Frontend:** FastAPI • Next.js • React • Streamlit
+- **Data & Tools:** Pandas • NumPy • FAISS • Git • GitHub • n8n
 
 ## Experience
 
@@ -41,13 +38,11 @@ Worked on data processing, exploratory data analysis, machine learning workflows
 
 ## Connect
 
-- **Portfolio:** [vivek-ai-portfolio-swart.vercel.app](https://vivek-ai-portfolio-swart.vercel.app/)
-- **LinkedIn:** [linkedin.com/in/vivek-surati-752906347](https://www.linkedin.com/in/vivek-surati-752906347/)
-- **GitHub:** [github.com/imvivek14](https://github.com/imvivek14)
-- **Email:** [viveksurati1410@gmail.com](mailto\:viveksurati1410@gmail.com)
+- **Portfolio:** [Visit Website](https://vivek-ai-portfolio-swart.vercel.app/)
+- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/vivek-surati-752906347/)
+- **GitHub:** [imvivek14](https://github.com/imvivek14)
+- **Email:** [viveksurati1410@gmail.com](mailto:viveksurati1410@gmail.com)
 
 ---
 
-\<p align="center">
-&#x20; \<i>Building intelligent systems, turning ideas into working solutions.\</i>
-\</p>
+*Building intelligent systems, turning ideas into working solutions.*
